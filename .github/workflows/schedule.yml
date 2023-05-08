@@ -1,0 +1,30 @@
+name: Deploy
+
+on:
+  # schedule:
+  #   - cron: "10 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  deploy:
+    runs-on: ubuntu-22.04
+    steps:
+      - name: Check corp-net-indicator
+        continue-on-error: true
+        uses: malaupa/composite-apt-repo-action@v0.0.1
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_repositories: |
+            malaupa/corp-net-indicator
+          target_os_release: |
+            jammy
+          repo_supported_arch: |
+            amd64
+          repo_supported_version: |
+            jammy
+          public_key: ${{ secrets.TEST_PUB_KEY }}
+          private_key: ${{ secrets.TEST_PRV_KEY }}
+          key_passphrase: ""
