@@ -1,0 +1,36 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Codename: jammy
+Date: Mon, 08 May 2023 20:21:32 UTC
+Architectures: amd64
+Components: main
+Description: malaupa/apt
+MD5Sum:
+ 297fdeaf278c30ca4e7ad0a42282e28e 497 main/binary-amd64/Packages
+ 327f24b57c412a1f1b092332a73eb48e 357 main/binary-amd64/Packages.gz
+ 6cc563048f189cf2c887fbc661234e6b 61 main/binary-amd64/Release
+SHA1:
+ e4164eba74a1db4cb0f3a81a3445fa4582174100 497 main/binary-amd64/Packages
+ 25896c2c326cbd145331e4596c4b5f6c8a60190a 357 main/binary-amd64/Packages.gz
+ f90a11a6d953d8ab564fd4d6a24fb56acfafaf36 61 main/binary-amd64/Release
+SHA256:
+ d952c8a2a7159fc9f98c898c56b1cfc0a3642a81b017be504cee8549873b5286 497 main/binary-amd64/Packages
+ bc086cec3f6e00e6b1c790b3ac7b0b77d5850bf4a12be044d09c47831aa42ec3 357 main/binary-amd64/Packages.gz
+ e36d99e6a6f3f3566e2d8c5a0f670afddcfb7341cc6b735bf72f28b30e6eee5a 61 main/binary-amd64/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEniidwx7NC+KW+LzLfaMiR1y/BmMFAmRZWcwACgkQfaMiR1y/
+BmPesA//UjbcrCfLdMwNXxYjJGhea4FcE0GeYF0zH5xpTXUvGM+XCQh9gpwADVC8
+68vFvi6mBzaRA/KaokskmNKCBNkq7UfeI3hf0z/LbiduBGkETK8cVKnYxo0lUQY8
+YjjF5m14p8/STEkhpJshxLeRU95RaFvofDSnUeAIQ7aEyugM5+0NVDqvhaLLgHm8
+qUZkYHNGjhoTWCKOVrkBQSA0BNdghdGVoyJ4OlPq8PqeKszLam6bP2RVYasKzKV3
+0YZs+d7IioEOZcLXjYE0WiZy2Lg2O3QZmS9v4QebaZSsTti2JiDKNT7fZZlO6ffK
+nhOIJb8ToL/Bq/DrAtjpNANrrabOwyDxOT7SL9WAyiBazfCDVMaR8dK+P+5+yVRN
+RydPiz2g5Q9bsvX2RTy5GJoFNHmVSM1SKmNpAVAFnKnCyvI5Nf0I65UhM7X5bITE
+T2NIxcGcWuAYif0oDtI98xRjQzT/teyMtckvYhAkkPshfCgGK/eWFDyaZ91EFKS4
+62k7Y+YGwd2ESFQxhc/jITJKrM8t8PmFxzL1E2PY5Ztil9YNE1/9StBf/tlVG13e
+f7RfeUVOr8X9WdwnhoAvK4mFReCvGWlwoyqW9ugu4aFxUBDFH1pGKoVao0zUDwtR
+3I0WgH2XlNwcqGFdfCKpZUIS0lgxb0UYQdG/kQfr5A7LRNlDux8=
+=5JDK
+-----END PGP SIGNATURE-----

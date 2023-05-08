@@ -1,0 +1,7 @@
+Description: malaupa/apt
+Codename: jammy
+Architectures: amd64
+Components: main
+SignWith: 9E289DC31ECD0BE296F8BCCB7DA322475CBF0663
+
+

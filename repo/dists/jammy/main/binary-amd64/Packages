@@ -1,0 +1,14 @@
+Package: corp-net-indicator
+Version: 0.0.1
+Architecture: amd64
+Maintainer: Stefan Schubert
+Installed-Size: 7248
+Priority: optional
+Section: net
+Filename: pool/main/c/corp-net-indicator/corp-net-indicator_0.0.1_amd64.deb
+Size: 7214680
+SHA256: 762c03f7335e766854b45cf8daafb6c178eb2324691f56abaded903ae5703191
+SHA1: 6309c34b8f8bc5f09e2281ba385be5ac8be22a1b
+MD5sum: df18debadd904c0c3e8dd52364cc6228
+Description: Program to show corporate network status and control identity login and vpn connection.
+
