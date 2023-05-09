@@ -14,11 +14,12 @@ jobs:
     steps:
       - name: Check corp-net-indicator
         continue-on-error: true
-        uses: malaupa/composite-apt-repo-action@v0.0.1
+        uses: malaupa/composite-apt-repo-action@v0.0.3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           github_repositories: |
             malaupa/corp-net-indicator
+            T-Systems-MMS/fw-id-agent
           target_os_release: |
             jammy
           repo_supported_arch: |
