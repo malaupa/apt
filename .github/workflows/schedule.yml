@@ -1,4 +1,4 @@
-name: Deploy
+name: CheckAndDeploy
 
 on:
   # schedule:
@@ -9,10 +9,10 @@ permissions:
   contents: write
 
 jobs:
-  deploy:
+  checkAndDeploy:
     runs-on: ubuntu-22.04
     steps:
-      - name: Check corp-net-indicator
+      - name: check repos
         continue-on-error: true
         uses: malaupa/composite-apt-repo-action@v0.0.3
         with:
