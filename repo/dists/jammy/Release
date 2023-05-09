@@ -1,17 +1,17 @@
 Codename: jammy
-Date: Mon, 08 May 2023 20:21:32 UTC
+Date: Tue, 09 May 2023 15:31:27 UTC
 Architectures: amd64
 Components: main
 Description: malaupa/apt
 MD5Sum:
- 297fdeaf278c30ca4e7ad0a42282e28e 497 main/binary-amd64/Packages
- 327f24b57c412a1f1b092332a73eb48e 357 main/binary-amd64/Packages.gz
+ fe1e8e1b90ec246fe5a00cb91ed905de 497 main/binary-amd64/Packages
+ eab2a801824c4237650c828c7928a2a6 358 main/binary-amd64/Packages.gz
  6cc563048f189cf2c887fbc661234e6b 61 main/binary-amd64/Release
 SHA1:
- e4164eba74a1db4cb0f3a81a3445fa4582174100 497 main/binary-amd64/Packages
- 25896c2c326cbd145331e4596c4b5f6c8a60190a 357 main/binary-amd64/Packages.gz
+ a2c04eeca315d10fe320ae28d193b13c84650c04 497 main/binary-amd64/Packages
+ 2d6c6752be32704ae9d2eb79a574317419c62d59 358 main/binary-amd64/Packages.gz
  f90a11a6d953d8ab564fd4d6a24fb56acfafaf36 61 main/binary-amd64/Release
 SHA256:
- d952c8a2a7159fc9f98c898c56b1cfc0a3642a81b017be504cee8549873b5286 497 main/binary-amd64/Packages
- bc086cec3f6e00e6b1c790b3ac7b0b77d5850bf4a12be044d09c47831aa42ec3 357 main/binary-amd64/Packages.gz
+ 458fe73accac627e2474716094d271340fb83d362fa05ab22f645b3844731392 497 main/binary-amd64/Packages
+ 6b340f0bf7622363a200e0c5c59089be73bdb698c2c15f4321561c95f2a6065a 358 main/binary-amd64/Packages.gz
  e36d99e6a6f3f3566e2d8c5a0f670afddcfb7341cc6b735bf72f28b30e6eee5a 61 main/binary-amd64/Release
